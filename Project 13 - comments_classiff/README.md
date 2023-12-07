@@ -4,11 +4,14 @@
 
 ## Навыки и инструменты
 Pandas
+
 Scikit-learn
-nltk
+
 LogisticRegression
+
 DecisionTreeClassifier
-LightGBM
+
+CatBoostClassifier
 
 ## Общий вывод
 Проведена предварительная обработка текста (очистка, удаление стоп-слов, лемматизация, векторизация). Было обучено 2 модели, в качестве тестовой выбран LogisticRegression.
