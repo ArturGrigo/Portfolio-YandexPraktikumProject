@@ -9,13 +9,13 @@
     <th width="50%">Описание проекта</th>
   </tr>
   <tr>
-    <td> <a href= "https://github.com/ArturGrigo/Portfolio-YandexPraktikumProject/blob/main/Project%203/%D0%9F%D1%80%D0%BE%D0%B5%D0%BA%D1%82%D0%BD%D0%B0%D1%8F%20%D1%80%D0%B0%D0%B1%D0%BE%D1%82%D0%B0%20%E2%84%963%20%D0%98%D1%81%D1%81%D0%BB%D0%B5%D0%B4%D0%BE%D0%B2%D0%B0%D0%BD%D0%B8%D0%B5%20%D0%BE%D0%B1%D1%8A%D1%8F%D0%B2%D0%BB%D0%B5%D0%BD%D0%B8%D0%B9%20%D0%BE%20%D0%BF%D1%80%D0%BE%D0%B4%D0%B0%D0%B6%D0%B5%20%D0%BA%D0%B2%D0%B0%D1%80%D1%82%D0%B8%D1%80%20.ipynb"> 3. Продажа квартир в Санкт-Петербурге — анализ рынка недвижимости </a> </td>
+    <td> <a href= "https://github.com/ArturGrigo/Portfolio-YandexPraktikumProject/tree/main/Project%203"> 3. Продажа квартир в Санкт-Петербурге — анализ рынка недвижимости </a> </td>
     <td>Python pandas</td>
     <td>Исследование объектов недвижимости. Выявление факторов, влияющих на стоимость объекта..</td>
     <td>Проведено исследование объектов, преставленных на рынке недвижимости, исследовано влияния различных факторов на стоимость объекта.</td>
   </tr> 
     <tr>
-    <td> <a href = "https://github.com/ArturGrigo/Portfolio-YandexPraktikumProject/blob/main/Project%204/%D0%A4%D0%98%D0%9D%D0%90%D0%9B%D0%AC%D0%9D%D0%AB%D0%99%20%D0%9F%D0%A0%D0%9E%D0%95%D0%9A%D0%A2%20-%20%D0%97%D0%90%D0%A7%D0%A2%D0%95%D0%9D%D0%9D%D0%AB%D0%99.ipynb"> 4. Определение выгодного тарифа для телеком компании </a></td>
+    <td> <a href = "https://github.com/ArturGrigo/Portfolio-YandexPraktikumProject/tree/main/Project%204"> 4. Определение выгодного тарифа для телеком компании </a></td>
     <td>Matplotlib,NumPy,Pandas,Python,SciPy,описательная статистика,проверка статистических гипотез</td>
     <td>На основе данных клиентов оператора сотовой связи проанализировать поведение клиентов и поиск оптимального тарифа</td>
     <td>Проведен предварительный анализ использования тарифов на выборке клиентов,
@@ -25,32 +25,32 @@
 различии выручки абонентов из Москвы и других регионов.</td>
   </tr> 
     <tr>
-    <td><a href='https://github.com/ArturGrigo/Portfolio-YandexPraktikumProject/blob/main/Project%205/%D0%A1%D0%B1%D0%BE%D1%80%D0%BD%D1%8B%D0%B9%20%D0%BF%D1%80%D0%BE%D0%B5%D0%BA%D1%82%201%20-%20%D0%BA%D0%BE%D0%BC%D0%BF%D1%8C%D1%8E%D1%82%D0%B5%D1%80%D0%BD%D1%8B%D0%B5%20%D0%B8%D0%B3%D1%80%D1%8B.ipynb'> 5.Интернет-магазин компьютерных игр</td>
+    <td><a href='https://github.com/ArturGrigo/Portfolio-YandexPraktikumProject/tree/main/Project%205'> 5.Интернет-магазин компьютерных игр</td>
     <td> Pytho pandas numpy </a> </td>
     <td>определить потенциально успешные игры, на которые можно делать ставку и соответственно планировать рекламные кампании</td>
     <td>В проекте используется набор данных о продажах игр за период с 1980 по 2016 год для разных платформ, жанров и возрастных групп по трем большим регионам.</td>
   </tr> 
      <tr>
-    <td><a href = 'https://github.com/ArturGrigo/Portfolio-YandexPraktikumProject/blob/main/Project%206%20%D0%9A%D0%BB%D0%B0%D1%81%D1%81%D0%B8%D1%84%D0%B8%D0%BA%D0%B0%D0%B8%D1%86%D0%B8%D1%8F%20%D0%BA%D0%BB%D0%B8%D0%B5%D0%BD%D1%82%D0%BE%D0%B2%20%D1%82%D0%B5%D0%BB%D0%B5%D0%BA%D0%BE%D0%BC%20%D0%BA%D0%BE%D0%BC%D0%BF%D0%B0%D0%BD%D0%B8%D0%B8/%D0%A4%D0%B8%D0%BD%D0%B0%D0%BB%D1%8C%D0%BD%D0%B0%D1%8F%20%D1%80%D0%B0%D0%B1%D0%BE%D1%82%D0%B0%20%D1%81%20%D0%B7%D0%B0%D0%BC%D0%B5%D1%87%D0%B0%D0%BD%D0%B8%D1%8F%D0%BC%D0%B8.ipynb'>6.Классификаиция клиентов телеком компании </a></td>
+    <td><a href = 'https://github.com/ArturGrigo/Portfolio-YandexPraktikumProject/tree/main/Project%206%20-%20%D1%80%D0%B5%D0%BA%D0%BE%D0%BC%D0%B5%D0%BD%D0%B4%D0%B0%D1%86%D0%B8%D1%8F%20%D1%82%D0%B0%D1%80%D0%B8%D1%84%D0%BE%D0%B2'>6.Классификаиция клиентов телеком компании </a></td>
     <td>Matplotlib, Pandas, Python, Scikit-learn </td>
     <td>На основе данных предложить клиенту тариф.</td>
     <td>Оператор мобильной связи выяснил: многие клиенты пользуются архивными тарифами. Они хотят построить систему, способную проанализировать поведение клиентов и предложить пользователям один из новых тариф.</td>
   </tr> 
      <tr>
-    <td><a href = 'https://github.com/ArturGrigo/Portfolio-YandexPraktikumProject/blob/main/Project7/%D0%9F%D1%80%D0%BE%D0%B5%D0%BA%D1%82%20%E2%84%967%20%D0%9F%D1%80%D0%BE%D0%B3%D0%BD%D0%BE%D0%B7%D0%B8%D1%80%D0%BE%D0%B2%D0%B0%D0%BD%D0%B8%D0%B5%20%D0%BE%D1%82%D1%82%D0%BE%D0%BA%D0%B0%20%D0%BA%D0%BB%D0%B8%D0%B5%D0%BD%D1%82%D0%B0%20%D0%91%D0%B0%D0%BD%D0%BA%D0%B0%20.ipynb'>7. Прогнозирование оттока клиента Банка</a></td>
+    <td><a href = 'https://github.com/ArturGrigo/Portfolio-YandexPraktikumProject/tree/main/Project%207'>7. Прогнозирование оттока клиента Банка</a></td>
     <td>Matplotlib, Pandas, Scikit-learn</td>
     <td>На основе данных из банка определить клиент, который может уйти</td>
     <td>Из банка стали уходить клиенты. Каждый месяц. Немного, но заметно. Банковские маркетологи посчитали: сохранять текущих клиентов дешевле, чем привлекать новых.
 Нужно спрогнозировать, уйдёт клиент из банка в ближайшее время или нет. Предоставлены исторические данные о поведении клиентов и расторжении договоров с банком.</td>
   </tr> 
      <tr>
-      <td><a href = 'https://github.com/ArturGrigo/Portfolio-YandexPraktikumProject/blob/main/Project%208%20%D0%9E%D0%BF%D1%80%D0%B5%D0%B4%D0%B5%D0%BB%D0%B5%D0%BD%D0%B8%D0%B5%20%D0%BD%D0%B0%D0%B8%D0%B1%D0%BE%D0%BB%D0%B5%D0%B5%20%D0%B2%D1%8B%D0%B3%D0%BE%D0%B4%D0%BD%D0%BE%D0%B3%D0%BE%20%D1%80%D0%B5%D0%B3%D0%B8%D0%BE%D0%BD%D0%B0%20%D0%BD%D0%B5%D1%84%D1%82%D0%B5%D0%B4%D0%BE%D0%B1%D1%8B%D1%87%D0%B8/%D0%9F%D1%80%D0%BE%D0%B5%D0%BA%D1%82%205%20%D0%9E%D0%BF%D1%80%D0%B5%D0%B4%D0%B5%D0%BB%D0%B5%D0%BD%D0%B8%D0%B5%20%D0%BD%D0%B0%D0%B8%D0%B1%D0%BE%D0%BB%D0%B5%D0%B5%20%D0%B2%D1%8B%D0%B3%D0%BE%D0%B4%D0%BD%D0%BE%D0%B3%D0%BE%20%D1%80%D0%B5%D0%B3%D0%B8%D0%BE%D0%BD%D0%B0%20%D0%BD%D0%B5%D1%84%D1%82%D0%B5%D0%B4%D0%BE%D0%B1%D1%8B%D1%87%D0%B8.ipynb'> 8. Определение наиболее выгодного региона нефтедобычи </a></td>
+      <td><a href = 'https://github.com/ArturGrigo/Portfolio-YandexPraktikumProject/tree/main/Project%208%20%D0%9E%D0%BF%D1%80%D0%B5%D0%B4%D0%B5%D0%BB%D0%B5%D0%BD%D0%B8%D0%B5%20%D0%BD%D0%B0%D0%B8%D0%B1%D0%BE%D0%BB%D0%B5%D0%B5%20%D0%B2%D1%8B%D0%B3%D0%BE%D0%B4%D0%BD%D0%BE%D0%B3%D0%BE%20%D1%80%D0%B5%D0%B3%D0%B8%D0%BE%D0%BD%D0%B0%20%D0%BD%D0%B5%D1%84%D1%82%D0%B5%D0%B4%D0%BE%D0%B1%D1%8B%D1%87%D0%B8'> 8. Определение наиболее выгодного региона нефтедобычи </a></td>
     <td>Pandas, Scikit-learn, бутстреп</td>
     <td>На основе данных геологи разведки выбрать район добычи нефти</td>
     <td>Вам предоставлены пробы нефти в трёх регионах. Характеристики для каждой скважины в регионе уже известны. Постройте модель для определения региона, где добыча принесёт наибольшую прибыль. </td>
   </tr> 
      <tr>
-    <td><a href = "https://github.com/ArturGrigo/Portfolio-YandexPraktikumProject/blob/main/Project9Gold/%D0%A1%D0%B1%D0%BE%D1%80%D0%BD%D1%8B%D0%B9%20%D0%BF%D1%80%D0%BE%D0%B5%D0%BA%D1%82%20%E2%84%962%209.%20%D0%98%D1%81%D1%81%D0%BB%D0%B5%D0%B4%D0%BE%D0%B2%D0%B0%D0%BD%D0%B8%D0%B5%20%D1%82%D0%B5%D1%85%D0%BD%D0%BE%D0%BB%D0%BE%D0%B3%D0%B8%D1%87%D0%B5%D1%81%D0%BA%D0%BE%D0%B3%D0%BE%20%D0%BF%D1%80%D0%BE%D1%86%D0%B5%D1%81%D1%81%D0%B0%20%D0%BE%D1%87%D0%B8%D1%81%D1%82%D0%BA%D0%B8%20%D0%B7%D0%BE%D0%BB%D0%BE%D1%82%D0%B0.ipynb">9. Исследование технологического процесса очистки золота </a></td>
+    <td><a href = "https://github.com/ArturGrigo/Portfolio-YandexPraktikumProject/tree/main/Project%209%20Gold%20">9. Исследование технологического процесса очистки золота </a></td>
     <td>Matplotlib,NumPy,Pandas,Python,Scikit-learn,исследовательский анализ данных</td>
     <td>Спрогнозировать концентрацию золота при проведении процесса очистки золота</td>
     <td>Строитстся модель машинного обучения для промышленной компании, разрабатывающая решения для эффективной работы промышленных предприятий. Модель должна предсказать коэффициент восстановления золота из золотосодержащей руды на основе данных с параметрами добычи и очистки. Модель поможет оптимизировать производство, чтобы не запускать предприятие с убыточными характеристиками.</td>
