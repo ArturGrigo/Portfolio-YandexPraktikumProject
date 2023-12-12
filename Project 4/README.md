@@ -13,11 +13,17 @@
 
 ## Навыки и инструменты:
 python
+
 pandas
+
 numpy
+
 matplotlib
+
 seaborn
+
 sklearn.metrics.accuracy_score
+
 sklearn.metrics.roc_auc_score
 sklearn.metrics.roc_curve
 sklearn.metrics.confusion_matrix
@@ -30,8 +36,11 @@ sklearn.pipeline.make_pipeline
 sklearn.ensemble.RandomForestClassifier
 sklearn.linear_model.LogisticRegression
 sklearn.dummy.DummyClassifier
+
 catboost.CatBoostClassifier
+
 lightgbm.LGBMClassifier
+
 phik.phik_matrix
 
 ## Общий вывод:
