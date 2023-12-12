@@ -7,14 +7,14 @@
 В проекте используются данные о поведении клиентов, которые уже перешли на эти тарифы.
 В процессе проекта будет построена модель для задачи классификации, которая выберет подходящий тариф. -При построении модели будет необходимо достичь максимально большого значения accuracy, не менее 0.75.
 ## Навыки и инструменты:
-python
-,pandas
-,sklearn.model_selection.train_test_split
-,sklearn.metrics.accuracy_score
-,sklearn.tree.DecisionTreeClassifier
-,sklearn.ensemble.RandomForestClassifier
-,sklearn.linear_model.LogisticRegression
-,sklearn.dummy.DummyClassifier
+- python
+- pandas
+- sklearn.model_selection.train_test_split
+- sklearn.metrics.accuracy_score
+- sklearn.tree.DecisionTreeClassifier
+- sklearn.ensemble.RandomForestClassifier
+- sklearn.linear_model.LogisticRegression
+- sklearn.dummy.DummyClassifier
 
 ## Общий вывод:
 
