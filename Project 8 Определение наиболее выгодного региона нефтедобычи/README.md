@@ -1,4 +1,7 @@
 # Выбор локации для скважины.
+## Описание проекта
+На основе данных геологической разведки выбрать район добычи нефти
+
 ## Цель проекта:
 
 Разработать для сотрудников нефтедобывающей компании модель, помогающую принять решение, где бурить новую скважину.
@@ -8,12 +11,15 @@
 В рамках проекта будет построена модель машинного обучения с использованием линейной регрессии, которая поможет определить регион, где добыча принесёт наибольшую прибыль. Анализ возможной прибыли и риски будут проанализированы техникой Bootstrap.
 
 ## Навыки и инструменты:
-python
-pandas
-numpy
-sklearn.model_selection.train_test_split
-sklearn.linear_model.LinearRegression
-sklearn.metrics.mean_squared_error
+- Pandas
+- Numpy
+- Scikit-learn
+- Seaborn
+- Matplotlib
+- Bootstrap
+- sklearn.model_selection.train_test_split
+- sklearn.linear_model.LinearRegression
+- sklearn.metrics.mean_squared_error
 
 ## Общий вывод:
 
